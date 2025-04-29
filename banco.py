@@ -114,7 +114,8 @@ def main():
             nova_conta(usuarios, agencia,numero_conta,contas)
 
         elif opcao == "lc":
-            listar_contas(contas)       
+            listar_contas(contas)
+        
         elif opcao == "q":
             break
 
